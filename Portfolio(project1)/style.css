@@ -1,0 +1,349 @@
+*{
+   
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: 'Roboto';
+   
+}
+div{
+    height:350px;
+    width:100%;
+}
+
+a{
+    background-color: #082032 ;
+   
+    text-decoration: none;
+    color: white;
+    position: relative;
+    left:900px;
+    margin-right: 10px;
+
+  
+}
+h1{
+    position: relative;
+    left:30px;
+}
+#h{
+    position: relative;
+    left:30px;
+    color: #0fd9ff;
+    
+    
+  
+}
+#p{
+    position: relative;
+    left:30px;
+    width: 500px;
+    height: 50px;
+   
+
+    
+}
+.img{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left:900px;
+    bottom: 100px;
+
+}
+#divtwo{
+    background-color:#2e4f64  ;
+    height:350px;
+    width:100%;
+}
+button{
+    width:90px;
+    height:30px;
+    border-radius: 10%;
+    position: relative;
+    top:40px;
+   left:30px;
+}
+#two{
+    width:90px;
+    height:30px;
+    border-radius: 10%;
+    position: relative;
+    top:40px;
+    right:180px;
+    border: 2px solid #0fd9ff;
+    background-color: #082032;
+}
+#circle1{
+    background-color: #082032;
+    width:30px;
+    height:30px;
+    border-radius: 50%;
+    position: relative;
+    bottom:115px;
+    display: inline-block;
+    left: 30px;
+    border: 2px solid #0fd9ff;
+    text-align: center;
+    color: #0fd9ff;
+}
+#circle2{
+    background-color: #082032;
+    width:30px;
+    height:30px;
+    border-radius: 50%;
+    position: relative;
+    bottom:98px;
+    color: #0fd9ff;
+   display: inline-block;
+   left: 30px;
+   border: 2px solid #0fd9ff;
+   text-align: center;
+   bottom:110px
+}
+#circle3{
+    background-color: #082032;
+    width:30px;
+    height:30px;
+    border-radius: 50%;
+    position: relative;
+    bottom:115px;
+   display: inline-block;
+   left: 30px;
+   border: 2px solid #0fd9ff;
+   text-align: center;
+   color: #0fd9ff;
+   
+}
+.twitter-bird{
+    height:20px;
+    width:20px;
+   
+   
+
+  
+}
+#divtwo{
+    font-size: 30px;
+    text-align: center;
+
+}
+#c{
+    border: 2px solid  #0fd9ff ;
+    border-radius: 50%;
+    width:100px;
+    height: 100px;
+    position: relative;
+    left: 580px;
+    overflow: hidden;
+    
+
+}
+#c img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit:fill;
+}
+#para{
+   font-size: small;
+}
+#read{
+ right:10px;
+ border: 2px solid  #0fd9ff;
+ background-color:  #0fd9ff;
+   
+}
+#box{
+    height: 350px;
+    width: 100%;
+    background-color: #082032;
+    font-size: 30px;
+    text-align: center;
+}
+.contain{
+    height:250px;
+    width:900px;
+    border:2px  solid  #0fd9ff;
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 12px;
+   
+}
+.box2{
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+   
+
+    
+    
+}
+.sub{
+    height:200px;
+    width:300px;
+    border: 2px solid  #0fd9ff;
+    display: inline-block;
+    margin: 30px;
+    font-size: 10px;
+    
+}
+.badge{
+    height: 10px;
+    width: 260px;
+    background-color: #0fd9ff;;
+    border: 2px solid #0fd9ff;
+    position: relative;
+    top:2px;
+    color: black;
+
+
+   
+}
+.badgetwo{
+    width:250px;
+        height: 10px;
+        background-color: #0fd9ff;;
+        border: 2px solid #0fd9ff;
+        position: relative;
+        top:2px;
+        color: black;
+    
+       
+    }
+    .badgethree{
+        height: 10px;
+        width: 240px;
+        background-color: #0fd9ff;;
+        border: 2px solid #0fd9ff;
+        position: relative;
+        top:2px;
+        color: black;
+    
+       
+    }
+    .badgefour{
+        height: 10px;
+        width: 230px;
+        background-color: #0fd9ff;;
+        border: 2px solid #0fd9ff;
+        position: relative;
+        top:2px;
+        color: black;
+    
+       
+    }
+    .badgefive{
+        height: 10px;
+        width: 200px;
+        background-color: #0fd9ff;;
+        border: 2px solid #0fd9ff;
+        position: relative;
+        top:2px;
+        color: black;
+    
+       
+    }
+    .badgesix{
+        height: 10px;
+        width: 230px;
+        background-color: #0fd9ff;;
+        border: 2px solid #0fd9ff;
+        position: relative;
+        top:2px;
+        color: black;
+    
+       
+    }
+    .badgeseven{
+        height: 10px;
+        width: 200px;
+        background-color: #0fd9ff;;
+        border: 2px solid #0fd9ff;
+        position: relative;
+        top:2px;
+        color: black;
+    
+       
+    }
+    .badgeeight{
+        height: 10px;
+        width: 190px;
+        background-color: #0fd9ff;;
+        border: 2px solid #0fd9ff;
+        position: relative;
+        top:2px;
+        color: black;
+    
+       
+    }
+
+.div{
+    height:20px;
+    width:280px;
+    border: 2px solid #0fd9ff;;
+    position: relative;
+    top:10px;
+    margin:15px;
+    position: relative;
+    right:4px;
+    
+   
+}
+#box3{
+    height: 200px;
+    width: 100%;
+    background-color: #082032;
+    text-align: center;
+    font-size: 30px;
+   
+   
+}
+#con{
+    height:50px;
+    width:200px;
+    border:2px solid  #0fd9ff;
+   display: inline-block;
+   margin: 20px;
+}
+#oo{
+color: black;
+}
+a{
+    color: white;
+}
+.pdf-link {
+    text-decoration: none;
+    color: #007BFF;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.pdf-link:hover {
+    color: white;
+    
+
+}
+#anchor{
+    position: relative;
+    right:900px;
+}
+#projects{
+    text-align: center;
+    color: white;
+    font-size: 10px;
+    height:150px;
+    width:100%;
+    background-color: #082032;
+    
+}
+.class{
+    background-color:black;
+    text-align: center;
+    height:50px;
+    font-size: 10px;
+
+
+}
+
+
